@@ -1,10 +1,10 @@
 package com.hdt7;
 
 // Clase para representar un árbol binario de búsqueda
-class Arbol {
+class BinaryTree {
     private Nodo<String> raiz;
 
-    public Arbol() {
+    public BinaryTree() {
         raiz = null;
     }
 
